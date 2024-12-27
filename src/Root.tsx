@@ -1,5 +1,5 @@
 import { HashRouter, Navigate, Route, Routes } from 'react-router-dom';
-import { TabsPage } from './components/tabsPage';
+import { TabsPage } from './components/TabsPage';
 import { App } from './App';
 
 export const Root = () => (
